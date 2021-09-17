@@ -1,0 +1,26 @@
+body{
+    background-image: url("img/lion.jpg");
+}
+
+.prg{
+    opacity: 40%;
+}
+
+#pg1{
+    color: brown;
+}
+#pg2{
+    color: green;
+}
+#pg3{
+    color: mediumvioletred;
+}
+#pg4{
+    color: yellowgreen;
+}
+#pg5{
+    color: orange;
+}
+#pg6{
+    color: gray;
+}
